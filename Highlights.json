@@ -4,10 +4,8 @@
     "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
     "EventName" : "BBL Live",
     "Url" : "https://bighra.tk/Events/bbl.json"
-  }
-],
-               "U19": [
-{
+  },
+               {
     "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
     "EventName" : "U19 Live",
     "Url" : "https://bighra.tk/Events/bbl.json"
