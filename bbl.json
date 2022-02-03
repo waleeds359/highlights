@@ -2,28 +2,28 @@
    
    "BBL Live" :[ 
       {
-    "ChannelName" : "Source",
+    "ChannelName" : "Google",
     "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/1.html",
     "EventName" : "BBL Live",
     "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
     "Toast" : "Please Unmute the Channel"
   },
    {
-    "ChannelName" : "Source",
+    "ChannelName" : "Yahoo",
     "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/2.html",
     "EventName" : "BBL Live",
     "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
     "Toast" : "Please Unmute the Channel"
   },
          {
-    "ChannelName" : "Source",
+    "ChannelName" : "Bing",
     "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/3.html",
     "EventName" : "BBL Live",
     "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
     "Toast" : "Please Unmute the Channel"
   },
        {
-    "ChannelName" : "Source",
+    "ChannelName" : "Aol",
     "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/4.html",
     "EventName" : "BBL Live",
     "ImageUrl" : "http://assets.crik.live/Events/bbl.jpg",
