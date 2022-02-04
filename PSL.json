@@ -4,49 +4,49 @@
        {
      "ChannelName" : "Source",
      "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/7.html",
-     "EventName" : "BBL Live",
+     "EventName" : "PSL Highlights",
      "ImageUrl" : "http://assets.wali.tk/Events/psl/7.jpg",
      "Toast" : "Please Unmute the Channel"
    },
    {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/6.html",
-    "EventName" : "BBL Live",
+    "EventName" : "PSL Highlights",
     "ImageUrl" : "http://assets.wali.tk/Events/psl/6.jpg",
     "Toast" : "Please Unmute the Channel"
   },
   {
    "ChannelName" : "Source",
    "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/5.html",
-   "EventName" : "BBL Live",
+   "EventName" : "PSL Highlights",
    "ImageUrl" : "http://assets.wali.tk/Events/psl/5.jpg",
    "Toast" : "Please Unmute the Channel"
  },
  {
   "ChannelName" : "Source",
   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/4.html",
-  "EventName" : "BBL Live",
+  "EventName" : "PSL Highlights",
   "ImageUrl" : "http://assets.wali.tk/Events/psl/4.jpg",
   "Toast" : "Please Unmute the Channel"
 },
 {
  "ChannelName" : "Source",
  "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/3.html",
- "EventName" : "BBL Live",
+ "EventName" : "PSL Highlights",
  "ImageUrl" : "http://assets.wali.tk/Events/psl/3.jpg",
  "Toast" : "Please Unmute the Channel"
 },
 {
  "ChannelName" : "Source",
  "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/2.html",
- "EventName" : "BBL Live",
+ "EventName" : "PSL Highlights",
  "ImageUrl" : "http://assets.wali.tk/Events/psl/2.jpg",
  "Toast" : "Please Unmute the Channel"
 },
 {
  "ChannelName" : "Source",
  "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/1.html",
- "EventName" : "BBL Live",
+ "EventName" : "PSL Highlights",
  "ImageUrl" : "http://assets.wali.tk/Events/psl/1.jpg",
  "Toast" : "Please Unmute the Channel"
 }
