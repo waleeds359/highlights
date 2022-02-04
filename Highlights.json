@@ -1,12 +1,12 @@
 {
              "HighLights": [
 {
-    "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
+    "EventImage" : "https://assets.wali.tk/Events/bbl.jpg",
     "EventName" : "BBL Live",
     "Url" : "https://wali.tk/bbl.json"
   },
                {
-    "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
+    "EventImage" : "https://assets.wali.tk/Events/psl.jpg",
     "EventName" : "PSL Highlights",
     "Url" : "https://wali.tk/Events/PSL.json"
   }
