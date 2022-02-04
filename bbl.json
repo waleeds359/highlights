@@ -1,6 +1,13 @@
 {
    
     "BBL Live" :[ 
+        {
+            "ChannelName" : "Perth Scorchers vs Sydney Sixers Final ",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/60.html",
+            "EventName" : "BBL Live",
+            "ImageUrl" : "http://assets.wali.tk/Events/bbl/60.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
        {
      "ChannelName" : "SYDNEY SIXERS vs ADELAIDE STRIKERS, Challenger",
      "ChannelUrl" : "https://iframe.wali.tk/Highlights/BBL/59.html",
