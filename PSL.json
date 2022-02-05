@@ -1,54 +1,54 @@
 {
    
-    "PSL Highlights" :[ 
-       {
-     "ChannelName" : "Source",
-     "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/7.html",
-     "EventName" : "PSL Highlights",
-     "ImageUrl" : "http://assets.wali.tk/Events/psl/7.jpg",
-     "Toast" : "Please Unmute the Channel"
-   },
-   {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/6.html",
-    "EventName" : "PSL Highlights",
-    "ImageUrl" : "http://assets.wali.tk/Events/psl/6.jpg",
-    "Toast" : "Please Unmute the Channel"
-  },
-  {
-   "ChannelName" : "Source",
-   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/5.html",
+  "PSL Highlights" :[ 
+     {
+   "ChannelName" : "7-Quetta Gladiators vs Multan Sultans, 7th Match",
+   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/7.html",
    "EventName" : "PSL Highlights",
-   "ImageUrl" : "http://assets.wali.tk/Events/psl/5.jpg",
+   "ImageUrl" : "http://assets.wali.tk/Events/psl/7.jpg",
    "Toast" : "Please Unmute the Channel"
  },
  {
-  "ChannelName" : "Source",
-  "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/4.html",
+  "ChannelName" : "6-Karachi Kings vs Lahore Qalandars, 6th Match",
+  "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/6.html",
   "EventName" : "PSL Highlights",
-  "ImageUrl" : "http://assets.wali.tk/Events/psl/4.jpg",
+  "ImageUrl" : "http://assets.wali.tk/Events/psl/6.jpg",
   "Toast" : "Please Unmute the Channel"
 },
 {
- "ChannelName" : "Source",
- "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/3.html",
+ "ChannelName" : "5-Peshawar Zalmi vs Islamabad United, 5th Match",
+ "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/5.html",
  "EventName" : "PSL Highlights",
- "ImageUrl" : "http://assets.wali.tk/Events/psl/3.jpg",
+ "ImageUrl" : "http://assets.wali.tk/Events/psl/5.jpg",
  "Toast" : "Please Unmute the Channel"
 },
 {
- "ChannelName" : "Source",
- "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/2.html",
- "EventName" : "PSL Highlights",
- "ImageUrl" : "http://assets.wali.tk/Events/psl/2.jpg",
- "Toast" : "Please Unmute the Channel"
+"ChannelName" : "4-Karachi Kings vs Quetta Gladiators, 4th Match",
+"ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/4.html",
+"EventName" : "PSL Highlights",
+"ImageUrl" : "http://assets.wali.tk/Events/psl/4.jpg",
+"Toast" : "Please Unmute the Channel"
 },
 {
- "ChannelName" : "Source",
- "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/1.html",
- "EventName" : "PSL Highlights",
- "ImageUrl" : "http://assets.wali.tk/Events/psl/1.jpg",
- "Toast" : "Please Unmute the Channel"
+"ChannelName" : "3-Multan Sultans vs Lahore Qalandars, 3rd Match",
+"ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/3.html",
+"EventName" : "PSL Highlights",
+"ImageUrl" : "http://assets.wali.tk/Events/psl/3.jpg",
+"Toast" : "Please Unmute the Channel"
+},
+{
+"ChannelName" : "2-Quetta Gladiators vs Peshawar Zalmi, 2nd Match",
+"ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/2.html",
+"EventName" : "PSL Highlights",
+"ImageUrl" : "http://assets.wali.tk/Events/psl/2.jpg",
+"Toast" : "Please Unmute the Channel"
+},
+{
+"ChannelName" : "1-Karachi Kings vs Multan Sultans, 1st Match",
+"ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/1.html",
+"EventName" : "PSL Highlights",
+"ImageUrl" : "http://assets.wali.tk/Events/psl/1.jpg",
+"Toast" : "Please Unmute the Channel"
 }
 ]
 }
