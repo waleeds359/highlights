@@ -9,6 +9,16 @@
     "EventImage" : "https://assets.wali.tk/Events/psl.jpg",
     "EventName" : "PSL Highlights",
     "Url" : "https://wali.tk/PSL.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/u19.jpg",
+    "EventName" : "U19 Highlights",
+    "Url" : "https://wali.tk/PSL.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/t20.jpg",
+    "EventName" : "T20 Highlights",
+    "Url" : "https://wali.tk/PSL.json"
   }
 ]
 }
