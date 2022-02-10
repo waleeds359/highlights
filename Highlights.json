@@ -2,12 +2,12 @@
              "HighLights": [
 {
     "EventImage" : "https://assets.wali.tk/Events/bbl.jpg",
-    "EventName" : "BBL Live",
+    "EventName" : "BBL Highlights",
     "Url" : "https://wali.tk/bbl.json"
   },
                {
     "EventImage" : "https://assets.wali.tk/Events/psl.jpg",
-    "EventName" : "PSL Highlights",
+    "EventName" : "PSL  Highlights",
     "Url" : "https://wali.tk/PSL.json"
   },
                {
@@ -24,6 +24,11 @@
     "EventImage" : "https://assets.wali.tk/Events/ipl.jpg",
     "EventName" : "IPL Highlights",
     "Url" : "https://wali.tk/ipl.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/lpl.png",
+    "EventName" : "LPL Highlights",
+    "Url" : "https://wali.tk/LPL.json"
   }
 ]
 }
