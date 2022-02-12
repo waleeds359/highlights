@@ -1,6 +1,20 @@
 {
    
   "PSL Highlights" :[ 
+     {
+   "ChannelName" : "17-Lahore Qalandars vs Multan Sultans, 17th Match",
+   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/17.html",
+   "EventName" : "PSL Highlights",
+   "ImageUrl" : "http://assets.wali.tk/Events/psl/17.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+     {
+   "ChannelName" : "16-Multan Sultans vs Peshawar Zalmi, 16th Match",
+   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/16.html",
+   "EventName" : "PSL Highlights",
+   "ImageUrl" : "http://assets.wali.tk/Events/psl/16.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
       {
    "ChannelName" : "15-Quetta Gladiators vs Lahore Qalandars, 15th Match",
    "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/15.html",
