@@ -2,6 +2,20 @@
    
   "PSL Highlights" :[ 
      {
+   "ChannelName" : "19-Peshawar Zalmi vs Karachi Kings, 19th Match",
+   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/19.html",
+   "EventName" : "PSL Highlights",
+   "ImageUrl" : "http://assets.wali.tk/Events/psl/19.jpg",
+   "Toast" : "Please Unmute the Channel"
+ }, 
+     {
+   "ChannelName" : "18-Islamabad United vs Quetta Gladiators, 18th Match",
+   "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/18.html",
+   "EventName" : "PSL Highlights",
+   "ImageUrl" : "http://assets.wali.tk/Events/psl/18.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+     {
    "ChannelName" : "17-Lahore Qalandars vs Multan Sultans, 17th Match",
    "ChannelUrl" : "https://iframe.wali.tk/Highlights/PSL/17.html",
    "EventName" : "PSL Highlights",
