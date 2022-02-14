@@ -1,13 +1,86 @@
 {
    
     "IPL Highlights" :[ 
-        {
-            "ChannelName" : "Chennai Super Kings vs Kolkata Knights Riders Final ",
+       {
+            "ChannelName" : "Final, Chennai Super Kings vs Kolkata Knights Riders ",
             "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/1.html",
             "EventName" : "IPL Highlights",
-            "ImageUrl" : "http://assets.wali.tk/Events/bbl/1.jpg",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/1.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+       {
+            "ChannelName" : "DELHI CAPITALS vs SUNRISERS HYDERABAD, Qualifier 2",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/2.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/2.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+       {
+            "ChannelName" : "Eliminator, SUNRISERS HYDERABAD vs ROYAL CHALLENGERS BANGALORE",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/3.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/3.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+       {
+            "ChannelName" : "MUMBAI INDIANS vs DELHI CAPITALS, Qualifier 1",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/4.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/4.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+        {
+            "ChannelName" : "56-SUNRISERS HYDERABAD vs MUMBAI INDIANS, 56th Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/5.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/5.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+        {
+            "ChannelName" : "55-DELHI CAPITALS vs ROYAL CHALLENGERS BANGALORE, 55th Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/6.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/6.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+       {
+            "ChannelName" : "54-KOLKATA KNIGHT RIDERS vs RAJASTHAN ROYALS, 54th Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/7.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/7.jpg",
+            "Toast" : "Please Unmute the Channel"
+          },
+       {
+            "ChannelName" : "53-CHENNAI SUPER KINGS vs PUNJAB KINGS, 53rd Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/8.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/8.jpg",
             "Toast" : "Please Unmute the Channel"
           }
-        ]
+       ,
+       {
+            "ChannelName" : "52-ROYAL CHALLENGERS BANGALORE vs SUNRISERS HYDERABAD, 52nd Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/9.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/9.jpg",
+            "Toast" : "Please Unmute the Channel"
+          }
+       ,
+       {
+            "ChannelName" : "51-DELHI CAPITALS vs MUMBAI INDIANS, 51st Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/10.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/10.jpg",
+            "Toast" : "Please Unmute the Channel"
+          }
+       ,
+       {
+            "ChannelName" : "50-PUNJAB KINGS vs RAJASTHAN ROYALS, 50th Match",
+            "ChannelUrl" : "https://iframe.wali.tk/Highlights/IPL/11.html",
+            "EventName" : "IPL Highlights",
+            "ImageUrl" : "http://assets.wali.tk/Events/ipl/11.jpg",
+            "Toast" : "Please Unmute the Channel"
+          }
+     ]
  }
  
