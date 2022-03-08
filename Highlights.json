@@ -1,6 +1,11 @@
 {
              "HighLights": [
-{
+               {
+    "EventImage" : "https://assets.wali.tk/Events/PKVAS.jpg",
+    "EventName" : "PKVAS Highlights",
+    "Url" : "https://wali.tk/PKVAS.json"
+  },
+              {
     "EventImage" : "https://assets.wali.tk/Events/bbl.jpg",
     "EventName" : "BBL Highlights",
     "Url" : "https://wali.tk/bbl.json"
